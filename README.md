@@ -70,4 +70,6 @@ We are currently in an Advanced Development Stage. For partnership inquiries, en
 Email: hello@texqtic.com
 LinkedIn: TexQtic Ventures Official
 
+
+
 # .github
